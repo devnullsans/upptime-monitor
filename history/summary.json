@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/photoz-icvj.onrender.com.ico",
     "slug": "photoz-icvj",
     "status": "up",
-    "uptime": "91.91%",
-    "uptimeDay": "91.91%",
-    "uptimeWeek": "91.91%",
-    "uptimeMonth": "91.91%",
-    "uptimeYear": "91.91%",
-    "time": 676,
-    "timeDay": 676,
-    "timeWeek": 676,
-    "timeMonth": 676,
-    "timeYear": 676,
-    "dailyMinutesDown": {
-      "2024-09-04": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 541,
+    "timeDay": 541,
+    "timeWeek": 541,
+    "timeMonth": 541,
+    "timeYear": 541,
+    "dailyMinutesDown": {}
   }
 ]
