@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photoz-icvj.onrender.com.ico",
     "slug": "photoz-icvj",
     "status": "up",
-    "uptime": "96.74%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "96.74%",
-    "time": 471,
-    "timeDay": 471,
-    "timeWeek": 471,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "uptime": "98.23%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
+    "time": 451,
+    "timeDay": 383,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2024-09-05": 44
+      "2024-09-05": 34
     }
   }
 ]
