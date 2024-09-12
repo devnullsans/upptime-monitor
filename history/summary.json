@@ -4,7 +4,7 @@
     "url": "https://photoz-icvj.onrender.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/photoz-icvj.onrender.com.ico",
     "slug": "photoz-icvj",
-    "status": "up",
+    "status": "down",
     "uptime": "97.09%",
     "uptimeDay": "95.76%",
     "uptimeWeek": "96.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 2486,
     "timeYear": 2486,
     "dailyMinutesDown": {
+      "2024-09-12": 0,
       "2024-09-11": 61,
       "2024-09-10": 15,
       "2024-09-09": 51,
