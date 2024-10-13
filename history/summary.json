@@ -11,7 +11,7 @@
     "uptimeMonth": "96.15%",
     "uptimeYear": "96.17%",
     "time": 3362,
-    "timeDay": 3475,
+    "timeDay": 3929,
     "timeWeek": 2883,
     "timeMonth": 3596,
     "timeYear": 3362,
@@ -60,19 +60,19 @@
     "url": "https://msg-board-server.onrender.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/msg-board-server.onrender.com.ico",
     "slug": "message-board",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "status": "up",
+    "uptime": "95.56%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
+    "time": 315,
+    "timeDay": 315,
+    "timeWeek": 315,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-10-13": 0
+      "2024-10-13": 25
     }
   }
 ]
