@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/photoz-icvj.onrender.com.ico",
     "slug": "photoz-icvj",
     "status": "up",
-    "uptime": "96.12%",
+    "uptime": "96.13%",
     "uptimeDay": "94.72%",
     "uptimeWeek": "95.02%",
     "uptimeMonth": "96.11%",
-    "uptimeYear": "96.12%",
-    "time": 3404,
-    "timeDay": 3901,
-    "timeWeek": 3369,
-    "timeMonth": 3615,
-    "timeYear": 3404,
+    "uptimeYear": "96.13%",
+    "time": 3391,
+    "timeDay": 3468,
+    "timeWeek": 3372,
+    "timeMonth": 3596,
+    "timeYear": 3391,
     "dailyMinutesDown": {
       "2024-10-13": 31,
       "2024-10-12": 45,
@@ -54,5 +54,23 @@
       "2024-09-06": 16,
       "2024-09-05": 34
     }
+  },
+  {
+    "name": "Message Board",
+    "url": "https://msg-board-server.onrender.com/ping",
+    "icon": "https://icons.duckduckgo.com/ip3/msg-board-server.onrender.com.ico",
+    "slug": "message-board",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 289,
+    "timeDay": 289,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289,
+    "dailyMinutesDown": {}
   }
 ]
