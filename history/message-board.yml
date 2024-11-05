@@ -1,7 +1,7 @@
 url: https://msg-board-server.onrender.com/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-05T16:24:38.406Z
+status: up
+code: 200
+responseTime: 363
+lastUpdated: 2024-11-05T16:43:37.630Z
 startTime: 2024-10-13T05:40:44.663Z
 generator: Upptime <https://github.com/upptime/upptime>
