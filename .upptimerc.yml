@@ -5,8 +5,8 @@ repo: upptime-monitor # The name of this repository
 sites:
   - name: Photoz ICVJ
     url: https://photoz-icvj.onrender.com/ping
-  - name: Message Board
-    url: https://msg-board-server.onrender.com/ping
+  # - name: Message Board
+  #   url: https://msg-board-server.onrender.com/ping
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Test Broken Site
