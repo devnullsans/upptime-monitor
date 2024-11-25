@@ -4,16 +4,16 @@
     "url": "https://photoz-icvj.onrender.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/photoz-icvj.onrender.com.ico",
     "slug": "photoz-icvj",
-    "status": "up",
-    "uptime": "97.60%",
+    "status": "down",
+    "uptime": "97.63%",
     "uptimeDay": "98.64%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "96.93%",
-    "uptimeYear": "97.60%",
+    "uptimeYear": "97.63%",
     "time": 3372,
-    "timeDay": 325,
-    "timeWeek": 1511,
-    "timeMonth": 2671,
+    "timeDay": 346,
+    "timeWeek": 1594,
+    "timeMonth": 2688,
     "timeYear": 3372,
     "dailyMinutesDown": {
       "2024-11-25": 20,
@@ -63,8 +63,7 @@
       "2024-10-06": 38,
       "2024-10-05": 80,
       "2024-10-04": 28,
-      "2024-10-03": 91,
-      "2024-10-02": 20
+      "2024-10-03": 91
     }
   }
 ]
