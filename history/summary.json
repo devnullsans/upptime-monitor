@@ -6,17 +6,17 @@
     "slug": "photoz-icvj",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "97.24%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "97.74%",
-    "time": 3308,
-    "timeDay": 454,
-    "timeWeek": 830,
-    "timeMonth": 2463,
-    "timeYear": 3308,
+    "time": 3301,
+    "timeDay": 339,
+    "timeWeek": 850,
+    "timeMonth": 2497,
+    "timeYear": 3301,
     "dailyMinutesDown": {
-      "2024-11-27": 45,
+      "2024-11-27": 38,
       "2024-11-26": 15,
       "2024-11-25": 38,
       "2024-11-22": 57,
@@ -63,7 +63,7 @@
       "2024-10-08": 45,
       "2024-10-07": 132,
       "2024-10-06": 38,
-      "2024-10-05": 61
+      "2024-10-05": 80
     }
   }
 ]
