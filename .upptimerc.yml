@@ -24,7 +24,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/11 * * * *"
+  uptime: "*/7 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
